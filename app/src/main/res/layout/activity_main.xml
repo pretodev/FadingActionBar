@@ -1,0 +1,38 @@
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.example.sapps.fadingactionbarexample.FadingScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/capa"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txv_title"
+            android:layout_margin="16dp"
+            style="?android:textAppearanceLarge"/>
+
+        <TextView
+            android:textSize="18sp"
+            android:layout_margin="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txv_description" />
+        <TextView
+            android:textSize="18sp"
+            android:layout_margin="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txv_description" />
+
+    </LinearLayout>
+
+</view>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FadingActionBarExample</string>
+    <string name="main_activity"></string>
+    <string name="action_settings">Settings</string>
+    <string name="txv_description">Santo Amaro (também conhecida pela denominação não oficial Santo Amaro da Purificação7 ) é um município na mesorregião Metropolitana de Salvador, no estado da Bahia, no Brasil. Possui 492 km² de área e uma população de 61 407 habitantes (2013), resultando numa densidade demográfica de 124,58 habitantes por quilômetro quadrado.</string>
+    <string name="txv_title">Santo Amaro</string>
+</resources>
